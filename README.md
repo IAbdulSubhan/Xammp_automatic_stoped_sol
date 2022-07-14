@@ -1,1 +1,1 @@
-# Xammp_automatic_stoped_sol
+# Xammp automatic stoped solution
